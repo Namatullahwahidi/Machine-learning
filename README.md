@@ -12,6 +12,10 @@ confusion_matrix
 [[16  0  0]
  [ 0 13  6]
  [ 0  2 13]]
+ 
+ 
+ 
+ 
 KNN 
 score : 0.96
 confusion_matrix
