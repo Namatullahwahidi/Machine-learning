@@ -9,22 +9,24 @@ Logistic Regression,KNN Classifier,Decision tree classifier,Random Forest Classi
 Logistic regression 
 score: 0.84
 confusion_matrix
+
 [[16  0  0]
  [ 0 13  6]
  [ 0  2 13]]
  
  
- 
- 
+  
 KNN 
 score : 0.96
 confusion_matrix
+
 [[16  0  0]
  [ 0 18  1]
  [ 0  1 14]]
 Decision tree 
 score: 0.96
 confusion_matrix
+
 [[16  0  0]
  [ 0 18  1]
  [ 0  1 14]]
