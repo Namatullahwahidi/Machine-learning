@@ -9,10 +9,9 @@ Logistic Regression,KNN Classifier,Decision tree classifier,Random Forest Classi
 Logistic regression 
 score: 0.84
 confusion_matrix
-[[16  0  0]
 
+[[16  0  0]
  [ 0 13  6]
- 
  [ 0  2 13]]
  
  
@@ -24,6 +23,7 @@ confusion_matrix
 [[16  0  0]
  [ 0 18  1]
  [ 0  1 14]]
+ 
 Decision tree 
 score: 0.96
 confusion_matrix
@@ -31,21 +31,27 @@ confusion_matrix
 [[16  0  0]
  [ 0 18  1]
  [ 0  1 14]]
+ 
 Random forest 
 score: 0.94
 confusion_matrix
+
 [[16  0  0]
  [ 0 18  1]
  [ 0  2 13]]
+ 
 SVM 
 score: 0.96
 confusion_matrix
+
 [[16  0  0]
  [ 0 18  1]
  [ 0  1 14]]
+ 
 Gaussian Naive bayes 
 score: 0.96
 confusion_matrix
+
 [[16  0  0]
  [ 0 19  0]
  [ 0  2 13]]
