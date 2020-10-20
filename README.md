@@ -1,13 +1,18 @@
 # Machine-learning
-
+to run anaconda firsly install anaconda and activate it
+    
+    $ source path-to-anacoand-installations-directory/anaconda3/bin/activate   
+ and run
+ 
+    $anaconda-navigator
 in this project i have some data iris.xls 
 i tested my data with six below machine learning algorithms and I caluculated the R_score and also confusion_matrix
 for this data which algorithm is greet then other
 algorithms are:
 
+
   
-  
-    Logistic Regression,KNN Classifier,Decision tree classifier,Random Forest Classifier,SVM Classification,Naive Bayes Classification
+Logistic Regression,KNN Classifier,Decision tree classifier,Random Forest Classifier,SVM Classification,Naive Bayes Classification
 
 Logistic regression 
     
